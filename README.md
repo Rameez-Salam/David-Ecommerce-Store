@@ -1,6 +1,7 @@
 # David-Ecommerce-Store
 
 Insights:
+
 -- Analyze Ecommerce Sales Data
 -- Created an interactive dashboard using Power Bi
 
